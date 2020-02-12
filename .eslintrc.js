@@ -22,5 +22,7 @@ module.exports = {
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
     'no-console': 'off',
+    'arrow-parens': 'off',
+    'react/jsx-props-no-spreading': 'off',
   },
 };
