@@ -24,5 +24,6 @@ module.exports = {
     'no-console': 'off',
     'arrow-parens': 'off',
     'react/jsx-props-no-spreading': 'off',
+    'comma-dangle': 'off',
   },
 };
